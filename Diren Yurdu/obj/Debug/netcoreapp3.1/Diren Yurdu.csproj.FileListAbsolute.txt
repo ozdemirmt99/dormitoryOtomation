@@ -1,0 +1,102 @@
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.exe
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.deps.json
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.dll
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.pdb
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren_Yurdu.Giris.resources
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.dll
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.pdb
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren_Yurdu.AnaMenu.resources
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren_Yurdu.AnaMenu2.resources
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren_Yurdu.AnaMenu3.resources
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\source\repos\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.exe
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.deps.json
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.dll
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.pdb
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren_Yurdu.AnaMenu.resources
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren_Yurdu.AnaMenu2.resources
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren_Yurdu.AnaMenu3.resources
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren_Yurdu.Giris.resources
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.dll
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.pdb
+C:\Users\LENOVO\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.genruntimeconfig.cache
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.exe
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.deps.json
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.runtimeconfig.json
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.runtimeconfig.dev.json
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.dll
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.pdb
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.csproj.AssemblyReference.cache
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren_Yurdu.AnaMenu.resources
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren_Yurdu.AnaMenu2.resources
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren_Yurdu.AnaMenu3.resources
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren_Yurdu.Giris.resources
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.csproj.GenerateResource.cache
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.AssemblyInfoInputs.cache
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.AssemblyInfo.cs
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.csproj.CoreCompileInputs.cache
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.csproj.CopyComplete
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.dll
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.pdb
+C:\Users\OZDEMIR\Desktop\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.genruntimeconfig.cache
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.exe
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.deps.json
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.runtimeconfig.json
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.runtimeconfig.dev.json
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.dll
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\Diren Yurdu.pdb
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.csproj.AssemblyReference.cache
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren_Yurdu.AnaMenu.resources
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren_Yurdu.AnaMenu2.resources
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren_Yurdu.AnaMenu3.resources
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren_Yurdu.Giris.resources
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.csproj.GenerateResource.cache
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.AssemblyInfoInputs.cache
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.AssemblyInfo.cs
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.csproj.CoreCompileInputs.cache
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.csproj.CopyComplete
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.dll
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.pdb
+C:\Users\OZDEMIR\Desktop\projes\Vtys Proje\Diren Yurdu\Diren Yurdu\obj\Debug\netcoreapp3.1\Diren Yurdu.genruntimeconfig.cache
