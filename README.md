@@ -60,4 +60,3 @@ Dormitory otomation with Windows Form App
 
 
 
-![App Image](https://github.com/ozdemirmt99/phonePriceClassification/blob/main/Annotation%202023-06-24%20143257.png)
