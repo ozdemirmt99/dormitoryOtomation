@@ -10,15 +10,15 @@ Dormitory otomation with Windows Form App
 ![App Image3](https://github.com/ozdemirmt99/dormitoryOtomation/blob/main/ekran%20raporlar%C4%B1/Screenshot%202021-12-27%20205354.png)
 
 
-![App Image4](https://github.com/ozdemirmt99/dormitoryOtomation/blob/main/ekran%20raporlar%C4%B1/Screenshot%202021-12-27%20205508.png)
 
 
 
-![App Image5](https://github.com/ozdemirmt99/dormitoryOtomation/blob/main/ekran%20raporlar%C4%B1/Screenshot%202021-12-27%20205530.png)
 
 
 
-![App Image6](https://github.com/ozdemirmt99/dormitoryOtomation/blob/main/ekran%20raporlar%C4%B1/Screenshot%202021-12-27%20205609.png)
+
+
+
 
 
 
